@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AndroidDialer</string>
+
+    <string name="number_zero">0</string>
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="asterix">*</string>
+    <string name="hash">#</string>
+    <string name="plus">+</string>
+    <string name="clear">Clear</string>
+    <string name="call">Call</string>
+    <string name="hang_up">Hang Up</string>
+    <string name="call_history">Call Log</string>
+
+    <string name="calling">Calling</string>
+    <string name="answer_call">Answer Call</string>
+    <string name="decline_call">Decline Call</string>
+
+    <string name="connected_to">Connected to: </string>
+    <string name="signal_strength">Signal strength: </string>
+    <string name="excellent_signal_strength">Excellent </string>
+    <string name="good_signal_strength">Good </string>
+    <string name="weak_signal_strength">Weak </string>
+    <string name="unreliable_signal_strength">Unreliable </string>
+
+    recycler view
+    <string name="mobile_network_info">Mobile network info:</string>
+    <string name="call_info">Call info:</string>
+    <string name="is_connected_to_internet"><b>Internet Connected: \u0020 </b></string>
+    <string name="is_connected_to_mobile_internet"><b>Connected Mobile Internet: \u0020 </b></string>
+    <string name="is_connected_to_wifi"><b>WiFi connected: \u0020 </b></string>
+    <string name="wifi_signal_strength"><b>WiFi signal strength: \u0020 </b></string>
+    <string name="ssid"><b>SSID: \u0020 </b></string>
+    <string name="mobile_network_type"><b>Mobile network type: \u0020 </b></string>
+    <string name="mobile_network_signal_strength"><b>Mobile Network Signal Strength: \u0020 </b></string>
+    <string name="radio_type"><b>Radio Type: \u0020</b></string>
+    <string name="carrier"><b>Carrier: \u0020</b></string>
+    <string name="gps_location"><b>GPS location: \u0020</b></string>
+    <string name="cell_tower_location"><b>Cell Tower Location: \u0020</b></string>
+    <string name="phone_number"><b>Phone Number: \u0020</b></string>
+    <string name="call_status"><b>Call Status: \u0020</b></string>
+    <string name="call_duration"><b>Call Duration: \u0020</b></string>
+    <string name="call_day_time"><b>Call Day and Time: \u0020</b></string>
+
+    error messages
+    <string name="no_internet">No Internet Connection</string>
+    <string name="permission_message">Please give the requested permission</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+</resources>
